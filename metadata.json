@@ -1,0 +1,6 @@
+{
+  "name": "Kita & Keluarga - Album Kenangan Privat",
+  "description": "Website album foto privat dan interaktif untuk menyimpan dan berbagi momen indah bersama pacar tercinta dan keluarga, lengkap dengan komentar, reaksi kasih sayang, dan akses bersama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
